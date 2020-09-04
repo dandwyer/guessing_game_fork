@@ -1,13 +1,13 @@
 [package]
-name = "guessing_game_fork"
-version = "0.1.2"
 authors = ["Dan Dwyer <dandwyer@gmail.com>"]
-edition = "2018"
 description = "Finished version of Guessing Game"
+edition = "2018"
 license = "MIT"
+name = "guessing_game_fork"
+repository = "https://github.com/dandwyer/guessing_game_fork/"
+version = "0.1.3"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-
 rand="0.3.0"
